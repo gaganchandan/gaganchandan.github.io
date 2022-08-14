@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-architect

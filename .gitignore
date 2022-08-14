@@ -1,2 +1,5 @@
 _site/
-
+_layouts/
+assets/
+_includes/
+_sass/

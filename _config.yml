@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Gagan Chandan"
-  avatar           : "profile.png"
-  bio              : "To be filled"
+  avatar           : "me.jpeg"
+  bio              : "Computer Science student interested in Software Security and Programming Languages. Linux and FOSS enthusiast."
   location         : "Bengaluru"
   employer         :
   pubmed           : 
-  googlescholar    : "To be added"
+  googlescholar    : 
   email            :
-  researchgate     : "To be added"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "To be added"
+  stackexchange    : "482007"
   steam            :
   tumblr           :
   twitter          : "gagan_chandan_"

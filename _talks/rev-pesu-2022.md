@@ -10,3 +10,8 @@ excerpt: "A hands-on workshop on reverse engineering x86 binaries delivered duri
 A hands-on workshop on reverse engineering x86 binaries delivered during Hacktober 2023
 
 [Link to slides]( {{ site.url }}/files/ReverseEngineering.pdf ).
+
+<br>
+<br>
+
+<iframe src="https://docs.google.com/gview?url=https://gaganchandan.com/files/ReverseEngineering.pdf&embedded=true" style="width:800px; height:1000px;" frameborder="0"></iframe>

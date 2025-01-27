@@ -276,10 +276,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
+  jekyll (~> 3.10)
   jekyll-feed
   jekyll-sitemap
   json
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.5.11
+   2.6.0
